@@ -5,62 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a5ba158-7cee-4998-b396-784207e63076" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.editorconfig-checker.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flake8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/no-response.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/pull_request_template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/push.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/release.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.hadolint.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.markdown-lint.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.yamllint.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAINTAINERS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRINCIPALS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VERSION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/actionlint.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build-functions/check-commands.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build-functions/get-public-image-config.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build-functions/gh-functions.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build-latest.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration/configuration.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration/extra.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration/ldap/extra.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration/ldap/ldap_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configuration/plugins.py" beforeDir="false" afterPath="$PROJECT_DIR$/configuration/plugins.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.override.yml.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.test.override.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.test.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/configuration.docker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/docker-entrypoint.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/housekeeping.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/launch-netbox.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/ldap_config.docker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/nginx-unit.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/unit.list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/netbox.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/postgres.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/redis-cache.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/redis.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/renovate.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements-container.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-configuration/test_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,6 +200,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752759243051</updated>
       <workItem from="1752759244134" duration="2923000" />
+      <workItem from="1753128171954" duration="1017000" />
     </task>
     <servers />
   </component>
