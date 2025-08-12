@@ -10,7 +10,8 @@ PLUGINS = [
     "netbox_qrcode",
     "netbox_reorder_rack",
     # "nb_service",
-    "netbox_data_flows"
+    "netbox_data_flows",
+    "netbox_dns"
 ]
 
 PLUGINS_CONFIG = {
